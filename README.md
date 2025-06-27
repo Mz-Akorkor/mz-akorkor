@@ -24,17 +24,17 @@ I'm a passionate former administrative assistant and project manager turned Back
 
 (([https://drive.google.com/file/d/1PjLwycKG6gMhmWInEc77BFzwLuJivSRS/view?usp=drive_link])
 
-**[Wilde Vye Restaurant Website]** is a **[is a bistro restaurant in South Africa]** built with **[SaaS (SquareSpace)]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Wilde Vye Restaurant Website]** is a **[is a bistro restaurant in South Africa]** built with ** [(SquareSpace.com)]**.
 
 ### [AlleyBar Website]([project_2_link](https://www.alleybargh.com/))
 
 ([https://drive.google.com/file/d/1KQLtn7E4F8Q-Xl5V9nRGOhcQ0jlSqn_O/view?usp=drive_link])
 
-**[AlleyBar Website]** is a **[is a night life bar in Ghana, located inside Osu]** built with **[SaaS (SquareSpace)]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[AlleyBar Website]** is a **[is a night life bar in Ghana, located inside Osu]** built with **[SaaS (SquareSpace)]**.This project highlights my ability to enhance and deliver an exceptional online presence. 
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**[hhttps://www.linkedin.com/in/dorisakorkorosabutey]
+- LinkedIn: [hhttps://www.linkedin.com/in/dorisakorkorosabutey]
 - Email: [osabuteyd17@gmail.com]
 
 ## Open to Collaborations! 🤝
