@@ -16,8 +16,6 @@ I'm a passionate former administrative assistant and project manager turned Back
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
 ### [Wilde Vye Restaurant Website] ([https://www.wildevybistro.com/])
