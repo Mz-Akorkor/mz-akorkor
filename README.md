@@ -7,10 +7,9 @@
 I'm a passionate former administrative assistant and project manager turned Backend Engineer in training, with a passion for building tech that solves real-world problems. I’m currently deep in code, learning how to design scalable systems that drive impact, particularly in underserved communities.. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Front-end and Back-end Development
-- 🔭 Working on: **[Building serverless applications with Saas]**
+- 🔭 Working on: Building serverless applications with Saas
 - 🌍 Languages: **Python, English**
-- 📫 How to reach me: [hhttps://www.linkedin.com/in/dorisakorkorosabutey]
-- ⚡ Fun fact: I love to sing and dance in the shower 
+- 📫 How to reach me: [hhttps://www.linkedin.com/in/dorisakorkorosabutey] 
 
 ## My Skills 🧠
 
