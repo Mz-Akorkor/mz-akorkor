@@ -35,7 +35,6 @@ I'm a passionate former administrative assistant and project manager turned Back
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**[hhttps://www.linkedin.com/in/dorisakorkorosabutey]
 - Email: [osabuteyd17@gmail.com]
 
