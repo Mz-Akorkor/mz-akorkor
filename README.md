@@ -1,6 +1,6 @@
 # Hi there, I'm MzAkorkor 👋
 
-![Banner Image](https://www.canva.com/design/DAGrXn2Hzvw/gA4i4SwOIxWDTuaoMx0Y7A/edit?utm_content=DAGrXn2Hzvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+(https://www.canva.com/design/DAGrXn2Hzvw/gA4i4SwOIxWDTuaoMx0Y7A/edit?utm_content=DAGrXn2Hzvw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## About Me 🚀
 
@@ -26,13 +26,13 @@ I'm a passionate former administrative assistant and project manager turned Back
 
 ### [Wilde Vye Restaurant Website] ([https://www.wildevybistro.com/])
 
-![Project 1 Screenshot]((https://drive.google.com/file/d/1PjLwycKG6gMhmWInEc77BFzwLuJivSRS/view?usp=drive_link))
+(([https://drive.google.com/file/d/1PjLwycKG6gMhmWInEc77BFzwLuJivSRS/view?usp=drive_link])
 
 **[Wilde Vye Restaurant Website]** is a **[is a bistro restaurant in South Africa]** built with **[SaaS (SquareSpace)]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
 ### [AlleyBar Website]([project_2_link](https://www.alleybargh.com/))
 
-![Project 2 Screenshot]((https://drive.google.com/file/d/1KQLtn7E4F8Q-Xl5V9nRGOhcQ0jlSqn_O/view?usp=drive_link))
+([https://drive.google.com/file/d/1KQLtn7E4F8Q-Xl5V9nRGOhcQ0jlSqn_O/view?usp=drive_link])
 
 **[AlleyBar Website]** is a **[is a night life bar in Ghana, located inside Osu]** built with **[SaaS (SquareSpace)]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
